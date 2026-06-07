@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments and Virtual Folders
+venv/
+env/
+.env
+.venv
+bin/
+include/
+lib/
+share/
+
+# Streamlit logs and local config
+.streamlit/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output files (prevents accidentally saving your converted images to GitHub)
+*.svg
+*.dxf
+*.png
+*.jpg
+*.jpeg
